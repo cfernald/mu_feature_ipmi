@@ -182,3 +182,6 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 .. |UbuntuCiBuild| image:: https://dev.azure.com/projectmu/mu/_apis/build/status/CI/Feature%20IPMI/Mu%20Feature%20IPMI%20-%20CI%20-%20GCC5?repoName=microsoft%2Fmu_feature_ipmi&branchName=main
 .. |UbuntuCiTest| image:: https://img.shields.io/azure-devops/tests/projectmu/mu/98.svg
 .. |UbuntuCiCoverage| image:: https://img.shields.io/badge/coverage-coming_soon-blue
+
+.. |NugetBuild| image:: https://github.com/cfernald/mu_feature_ipmi/actions/workflows/release.yaml/badge.svg
+.. |NugetVersion| image:: https://img.shields.io/nuget/v/fernald-feature-ipmi
