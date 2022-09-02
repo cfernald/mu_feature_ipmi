@@ -3,7 +3,9 @@ Project Mu IPMI Feature Repository
 =================================
 
 Release Build:   |NugetBuild|
+
 Release Version: |NugetVersion|
+
 
 ============================= ================= =============== ===================
  Host Type & Toolchain        Build Status      Test Status     Code Coverage
