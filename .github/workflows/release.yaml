@@ -22,7 +22,7 @@ jobs:
   build:
     name: Build Release Package
     runs-on: ubuntu-latest
-    environment: release
+    environment: packagegen
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2
