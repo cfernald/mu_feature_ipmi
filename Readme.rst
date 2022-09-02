@@ -9,6 +9,13 @@ Windows_VS2022_               |WindowsCiBuild|  |WindowsCiTest| |WindowsCiCovera
 Ubuntu_GCC5_                  |UbuntuCiBuild|   |UbuntuCiTest|  |UbuntuCiCoverage|
 ============================= ================= =============== ===================
 
+=========== ============= ===============
+Release     Build Status  Version
+=========== ============= ===============
+Nuget       |NugetBuild|  |NugetVersion|
+=========== ============= ===============
+
+
 This repository is part of Project Mu. Please see `Project Mu <https://microsoft.github.io/mu>`_ for details.
 
 This IPMI feature repo contains the generic IPMI code from TianoCore's
