@@ -2,9 +2,7 @@
 Project Mu IPMI Feature Repository
 =================================
 
-Release Build:   |NugetBuild|
-
-Release Version: |NugetVersion|
+|NugetBuild| |NugetVersion|
 
 
 ============================= ================= =============== ===================
