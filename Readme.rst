@@ -2,18 +2,18 @@
 Project Mu IPMI Feature Repository
 =================================
 
+=========== ============= ===============
+Release     Build Status  Version
+=========== ============= ===============
+Nuget       |NugetBuild|  |NugetVersion|
+=========== ============= ===============
+
 ============================= ================= =============== ===================
  Host Type & Toolchain        Build Status      Test Status     Code Coverage
 ============================= ================= =============== ===================
 Windows_VS2022_               |WindowsCiBuild|  |WindowsCiTest| |WindowsCiCoverage|
 Ubuntu_GCC5_                  |UbuntuCiBuild|   |UbuntuCiTest|  |UbuntuCiCoverage|
 ============================= ================= =============== ===================
-
-=========== ============= ===============
-Release     Build Status  Version
-=========== ============= ===============
-Nuget       |NugetBuild|  |NugetVersion|
-=========== ============= ===============
 
 
 This repository is part of Project Mu. Please see `Project Mu <https://microsoft.github.io/mu>`_ for details.
